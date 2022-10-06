@@ -92,7 +92,6 @@ svg.email {
     fill: #1b1b1b;
     transform: rotate3d(0, 1, 1, -30deg);
     animation: swing ease-in-out 5s infinite alternate;
-    animation-delay: 2s;
 }
 
 p.email {
